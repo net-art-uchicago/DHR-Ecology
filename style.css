@@ -1,0 +1,54 @@
+body {
+    background-color: rgb(91, 146, 229);
+  }
+
+.logo {
+    width: 100%;
+  }
+
+div.earth {
+
+}
+
+div.air {
+
+}
+
+div.fire {
+
+}
+
+div.water {
+
+}
+
+article {
+    max-width: 500px;
+    margin: 0 auto;
+    color: rgb(255, 255, 255);
+  }
+
+body {
+  font-family: Helvetica;
+}
+
+h2 {
+      padding-bottom: 10px;
+  		border-bottom: 3px solid rgb(255, 255, 255);
+      margin-top: 40px;
+    }
+
+h2 {
+    padding-bottom: 10px;
+		border-bottom: 3px solid rgb(255, 255, 255);
+    margin-top: 40px;
+  }
+
+h3 {
+      padding-bottom: 10px;
+  		border-bottom: 3px solid rgb(255, 255, 255);
+}
+
+  p {
+    line-height: 24px;
+  }
