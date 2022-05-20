@@ -1,6 +1,6 @@
 body {
-  background: rgb(47,158,44);
-  background: linear-gradient(180deg, rgba(47,158,44,1) 0%, rgba(232,201,90,1) 33%, rgba(255,53,53,1) 66%, rgba(13,13,119,1) 100%);
+  background: rgb(26,33,26);
+background: linear-gradient(180deg, rgba(26,33,26,1) 0%, rgba(97,170,57,1) 18%, rgba(237,200,68,1) 33%, rgba(255,53,53,1) 54%, rgba(27,73,148,1) 74%, rgba(6,6,55,1) 100%); 
   }
 
 article {
@@ -35,10 +35,21 @@ h3 {
 }
 
   p {
-    line-height: 24px;
+    line-height: 20px;
   }
 
-a {
+a:link {
   text-decoration: underline;
-  text-color: red;
+  color: white;
+}
+
+a:hover {
+  text-decoration: underline;
+  font-weight: bold;
+  color: white;
+}
+
+a:visited {
+  font-weight: lighter;
+  color: white;
 }
