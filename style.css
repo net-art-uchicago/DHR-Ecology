@@ -1,6 +1,6 @@
 body {
-  background: rgb(26,33,26);
-background: linear-gradient(180deg, rgba(26,33,26,1) 0%, rgba(97,170,57,1) 18%, rgba(237,200,68,1) 33%, rgba(255,53,53,1) 54%, rgba(27,73,148,1) 74%, rgba(6,6,55,1) 100%); 
+  background: rgb(55,65,65);
+background: linear-gradient(180deg, rgba(55,65,65,1) 15%, rgba(43,149,101,1) 31%, rgba(209,202,58,1) 46%, rgba(227,94,13,1) 66%, rgba(34,193,195,1) 80%, rgba(16,44,111,1) 92%); 
   }
 
 article {
