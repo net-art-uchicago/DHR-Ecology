@@ -1,8 +1,7 @@
 body {
   background: rgb(55,65,65);
-background: linear-gradient(180deg, rgba(55,65,65,1) 15%, rgba(43,149,101,1) 31%, rgba(209,202,58,1) 46%, rgba(227,94,13,1) 66%, rgba(34,193,195,1) 80%, rgba(16,44,111,1) 92%); 
-  }
-
+background: linear-gradient(180deg, rgba(55,65,65,1) 15%, rgba(43,149,101,1) 33%, rgba(209,202,58,1) 44%, rgba(227,94,13,1) 53%, rgba(34,193,195,1) 65%, rgba(16,44,111,1) 82%); 
+}
 article {
     max-width: 550px;
     margin: 0 auto;
